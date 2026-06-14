@@ -229,6 +229,18 @@ body{
 
 
 
+
+#about h1,
+#projects h1,
+#contact h1,
+#skills h1{
+  color: rgb(92, 54, 179);
+}
+
+
+
+
+
 /*  */SKILLSSS
 
 
@@ -237,6 +249,7 @@ body{
   padding:120px 80px;
   background:#050816;
   color:white;
+  text-align: center;
 }
 
 .skills-section h1{
@@ -258,6 +271,7 @@ body{
   display:flex;
   flex-wrap:wrap;
   gap:20px;
+  justify-content: center;
 }
 
 .skill-card{

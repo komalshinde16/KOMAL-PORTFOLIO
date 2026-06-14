@@ -8,8 +8,7 @@
 
 // export default Skills;
 
-
-
+           
 
 const Skills = () => {
   const skills = {
@@ -41,9 +40,13 @@ const Skills = () => {
       "Postman",
       "VS Code",
     ],
+ 
 
     
   };
+
+
+
 
   return (
     <section id="skills" className="skills-section">
