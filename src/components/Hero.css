@@ -392,3 +392,46 @@ body{
 
 
 /* contact form css end */
+
+
+
+/* professional summary */
+
+
+/* ===== PROFESSIONAL SUMMARY SECTION ===== */
+
+#about{
+  min-height:100vh;
+  background:#050816;
+
+  display:flex;
+  justify-content:center;
+  align-items:center;
+
+  padding:120px 20px 80px;
+}
+
+.about-container{
+  max-width:900px;
+  width:100%;
+  text-align:center;
+}
+
+.about-container h1{
+  font-size:4.5rem;
+  font-weight:700;
+  margin-bottom:50px;
+
+  color:#39d6ff;
+
+  text-transform:none;
+  letter-spacing:1px;
+}
+
+.about-container p{
+  color:#ffffff;
+  font-size:1.4rem;
+  line-height:1.9;
+
+  margin-bottom:30px;
+}
