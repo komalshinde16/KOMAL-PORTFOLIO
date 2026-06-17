@@ -1,7 +1,7 @@
 const About = () => {
   return (
     <section id="about" style={{height:"100vh"}}>
-      <h1>About Me</h1>
+      <h1>Professional Summary</h1>
     </section>
   );
 };
